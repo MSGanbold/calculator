@@ -1,4 +1,5 @@
-#calculator
+# an elementary calculator code
+
 num_1 = input('Enter the first digit')
 
 num_2 = input('Enter the second digit')
